@@ -99,3 +99,13 @@ body {
     border-radius: 10px; /* Optional: Rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow for aesthetics */
   }
+
+  .fancy-line {
+    border: none;
+    height: 4px;
+    background: linear-gradient(to right, #ff8c00, #ff4500);
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 5px;
+  }
+  
